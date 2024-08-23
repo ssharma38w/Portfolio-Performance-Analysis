@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 
 # Load the CSV file
-file_path= r'C:\Users\shubh\Downloads\DR01540_Global P&L Statement_23_08_2024 (1).csv'  # Replace with your file path
+file_path= r'C:\Users\shubh\Downloads\FNO P&L Statement_23_08_2024.csv'  # Replace with your file path
 n=1
 # Fixed cost analysis
 actual_final_profit_after_fixed_cost = 29169.04*n
